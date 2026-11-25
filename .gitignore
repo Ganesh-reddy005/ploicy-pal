@@ -16,3 +16,7 @@ out/
 
 # OS / editor
 .DS_Store
+
+# Markdown docs (keep READMEs)
+*.md
+!README.md
